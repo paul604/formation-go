@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/paul604/formation-go.svg?branch=master)](https://travis-ci.org/paul604/formation-go)
