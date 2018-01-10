@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/paul604/formation-go/tp02/golaunch"
+    "github.com/paul604/formation-go/TP02/golaunch"
 )
 
 func main() {
